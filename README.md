@@ -37,4 +37,37 @@ A simple yet effective third-person game prototype that demonstrates core charac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/basic-character-controller-game.git
+   git clone https://github.com/Krushna0304/SmoothCharacterActions.git
+
+---
+
+## 🚀 How to Use This Project
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Krushna0304/SmoothCharacterActions.git
+   cd OpenWorld
+   ```
+
+2. **Open in Unity:**
+   - Open the project using **Unity 2020.3 LTS or later**.
+   - You can do this via Unity Hub or by launching the Unity Editor and selecting the project folder.
+
+3. **Download the Character Model**
+   - Download the character model file from the provided Drive Link in GameAssest File.
+   - Place them in the following directory:
+     ```
+    OpenWorld\Assets\Prefabs\Player
+     ```
+
+4. **Open the SampleScene Scene and Play:**
+   - Navigate to:
+     ```
+     Assets/Scenes/SampleScene.unity
+     ```
+   - Click the **Play** button to test the character controls and animation system.
+
+
+
+
+
