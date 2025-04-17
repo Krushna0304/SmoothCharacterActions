@@ -57,7 +57,7 @@ A simple yet effective third-person game prototype that demonstrates core charac
    - Download the character model file from the provided Drive Link in GameAssest File.
    - Place them in the following directory:
      ```
-    OpenWorld\Assets\Prefabs\Player
+     OpenWorld\Assets\Prefabs\Player
      ```
 
 4. **Open the SampleScene Scene and Play:**
